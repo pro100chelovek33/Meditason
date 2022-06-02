@@ -31,6 +31,14 @@ class SignInActivity : AppCompatActivity() {
                 .create()
                 .show()
         }
-    }}
+    }
+     fun onFinish() {
+        val intent = Intent(this@SignInActivity,MenuActivity::class.java)
+        startActivity(intent)
+        finish()
+    }
+
+
+    }
 
 
