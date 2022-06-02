@@ -60,6 +60,7 @@
         android:background="#7c9a92"
         android:fontFamily="sans-serif-medium"
         android:padding="8dp"
+        android:textColor="@color/white"
         android:text="Войти в аккаунт"
         android:textSize="20dp"
         android:gravity="center"
