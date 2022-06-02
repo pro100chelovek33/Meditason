@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Meditason</string>
     <string name="n_n_n">\n Наслаждайся отборочными. \n Будь внимателен. \n Делай хорошо.</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
 </resources>
